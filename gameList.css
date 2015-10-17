@@ -1,0 +1,12 @@
+body{
+	background-color: #8bafee;
+}
+.jumbotron{
+	background-color: green;
+}
+.col-sm-4{
+	font-size: 20px;
+}
+#btnRT{
+	text-align: center;
+}

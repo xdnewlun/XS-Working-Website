@@ -1,0 +1,47 @@
+body{
+	background-color: #6c0031;
+}
+#container {
+	text-align: center;
+	color: white;
+}
+#buttonContainer {
+	text-align: center;
+}
+#brownies{
+	font-size: 40px;
+	color: white;
+}
+#upgrade{
+	text-align: center;
+}
+#upgrade-text{
+	text-align: center;
+	color: white;
+}
+#save-div{
+	text-align: center;
+	color: white;
+}
+#upgraded{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+#divider{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+#winner{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+#reset-lotto-brownieSet{
+	color: black;
+}
+#thanks{
+	color: white;
+	text-align: center;
+}
